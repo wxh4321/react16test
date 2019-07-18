@@ -565,3 +565,4 @@ class XXX extend Component {
 }
 ```
 
+"#react16test"
