@@ -1,3 +1,5 @@
 .head {
   border: 1px solid red;
+  width: 30%;
+  margin:auto 0;
 }
